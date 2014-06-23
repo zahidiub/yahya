@@ -47,7 +47,7 @@ Please donate via PayPal to donate@opencart.com
 <div id="powered"><div class="wrapper">
 	<!-- <?php echo $powered; ?> -->
 	<!-- Please do not remove following code or we can not support you with this product ! -->
-	<p align="center">Powered by <a href="http://www.opencart.com" title="Opencart" target="_blank">Opencart</a><br />Opencart theme designed by <a href="http://www.kulerthemes.com" title="KulerThemes"><strong>KulerThemes.com</strong></a></p>
+	<p align="center">Powered by <a href="http://www.trackus.co.uk/" title="Trackus" target="_blank">Trackus.co.uk</a></p>
 </div></div>
 <!--
 OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
