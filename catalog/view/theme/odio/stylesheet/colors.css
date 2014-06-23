@@ -1,0 +1,92 @@
+/*--------------------------------------------------------------------------/
+* @Author		KulerThemes.com http://www.kulerthemes.com
+* @Copyright	Copyright (C) 2012 - 2013 KulerThemes.com. All rights reserved.
+* @License		KulerThemes.com Proprietary License
+/---------------------------------------------------------------------------*/
+
+/* =============== PREDEFINED COLORS - RED =============== */
+/* DEFAULT HTML - LINK STYLES */
+.color-red a {
+	color: #E25552;
+}
+/* DEFAULT HTML - BUTTONS */
+.color-red .button:hover {
+	background-color: #E25552;
+}
+.color-red .button.highlight {
+	background-color: #E25552;
+}
+/* HEADER */
+.color-red #topbar .links a {
+	background-image: url(../image/icons/icon-16-red.png);
+}
+.color-red #topbar #currency a {
+	border: 1px solid #E25552;
+}
+.color-red #topbar #currency a.current {
+	background-color: #E25552;
+}
+.color-red #toppanel #search .button-search {
+	background-image: url(../image/icons/icon-16-red.png);
+}
+.color-red #header #cart .heading {
+	background: url(../image/icons/icon-basket-red.png) left center no-repeat;
+}
+/* MENU */
+.color-red .mainmenu li:hover > a,
+.color-red .mainmenu li.active > a {
+	color: #E25552;
+}
+.color-red .mainmenu > li:hover,
+.color-red .mainmenu > li.active,
+.color-red .mainmenu > li:hover > a,
+.color-red .mainmenu > li.active > a {
+	border-color: #E25552
+}
+/* treemenu */
+.color-red .treemenu li a:hover,
+.color-red .treemenu li a.active {
+	color: #E25552;
+}
+.color-red .treemenu li a.active > span {
+	background-position: left -62px;
+}
+.color-red .treemenu > li > a.active > span {
+	background-position: left -452px;
+}
+/* table */
+.color-red .pagination .links b,
+.color-red .pagination .links a:hover {
+	background-color: #E25552;
+}
+/* button */
+.color-red .buttons .button {
+	background-color: #E25552;
+}
+/* tabs */
+.color-red .htabs a {
+	background: url(../image/backgrounds/bg-double-line-red.png) -300px bottom no-repeat;
+}
+.color-red .htabs a:hover,
+.color-red .htabs a.selected {
+	color: #E25552;
+}
+/* box */
+.color-red .box-product .name a:hover {
+	color: #E25552;
+}
+/* box products */
+.color-red .product-filter .display span {
+	color: #E25552;
+}
+/* products list */
+.color-red .product-list > div:hover {
+	border: 1px solid #E25552;
+}
+/* products grid */
+.color-red .product-grid .details:hover {
+	border: 1px solid #E25552;
+}
+.color-red .product-grid .name a {
+	color: #E25552;
+}

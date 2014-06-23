@@ -2,3 +2,6 @@
 2014-06-20 12:14:15 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\yahya\catalog\view\theme\optimus\template\common\header.tpl on line 133
 2014-06-20 12:14:15 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\yahya\catalog\view\theme\optimus\template\common\header.tpl on line 133
 2014-06-20 12:14:15 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\yahya\catalog\view\theme\optimus\template\common\header.tpl on line 133
+2014-06-23 11:53:01 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\yahya\catalog\view\theme\optimus\template\common\header.tpl on line 133
+2014-06-23 11:53:06 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\yahya\catalog\view\theme\optimus\template\common\header.tpl on line 133
+2014-06-23 11:53:07 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\yahya\catalog\view\theme\optimus\template\common\header.tpl on line 133

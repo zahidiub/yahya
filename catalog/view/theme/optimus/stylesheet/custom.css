@@ -1,8 +1,0 @@
-ul.breadcrumb li{ padding:0px 14px; font-size:11px; text-transform:uppercase; display:inline-block; list-style:none; background:url(../images/custom/arrow.png) no-repeat -10px -3px;}
-.departments > li > a{ padding:7px 0px;  background-image:url(../images/custom/arrow.png); background-repeat:no-repeat; background-position: right 4px; display:block;}
-.action_buttonbar button.checkout{ float:right; padding-right:28px; background:url(../images/custom/arrow.png) right -20px no-repeat;}
-.checkout_discount{ float:right; width:305px;border:solid 1px #e0e0e0; border-width:2px 0px; padding:14px 16px 16px; background:url(../images/custom/cart_coupon.png) no-repeat right bottom #f9f8f6;}
-nav .minicart{ float:right;margin:5px 0px 3px 0px; padding: 14px 10px 14px 40px; background:url(../images/custom/cart_icon.png) no-repeat 7px center; position:relative; text-decoration:none;}
-.cart_drop .darw{ display:block; background:url(../images/custom/cart_top.png) no-repeat center bottom; width:7px; height:7px; position:absolute; left:181px; top:-8px;}
-.jcarousel-skin-tango .jcarousel-prev-horizontal { background: transparent url(../images/custom/slider_left_arrow.png) no-repeat center;}
-.jcarousel-skin-tango .jcarousel-next-horizontal { background: transparent url(../images/custom/slider_right_arrow.png) no-repeat center;}
