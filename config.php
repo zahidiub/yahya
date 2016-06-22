@@ -5,6 +5,7 @@ define('HTTP_SERVER', 'http://localhost/yahya/');
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/yahya/');
 
+
 // DIR
 define('DIR_APPLICATION', 'C:\xampp\htdocs\yahya/catalog/');
 define('DIR_SYSTEM', 'C:\xampp\htdocs\yahya/system/');
